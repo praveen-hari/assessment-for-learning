@@ -1,0 +1,18 @@
+# PDF files
+*.pdf
+
+# Extracted text and images
+extracted_text/
+extracted_images/
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# MkDocs build output
+site/
+
+# OS files
+.DS_Store
+Thumbs.db
